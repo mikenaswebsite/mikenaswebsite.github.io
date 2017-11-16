@@ -1,0 +1,81 @@
+
+h1{
+    text-align:center;
+    color:#000000;
+    font-family: 'Dosis', sans-serif;
+    font-size:38px;
+}
+body{
+    background-color:#7dacc1;
+
+}
+
+img{
+     border: 7px solid white;
+}
+
+
+
+
+p {
+    font-family: 'Oxygen', sans-serif;
+  
+}
+
+h2{
+	font-family: 'Oxygen', sans-serif;
+
+}
+
+header{
+    background: url("images/Mountains.jpg");
+    background-size:cover;
+    background-position: center;
+    text-align:center;
+
+}
+
+div{
+    text-align:center;
+
+}
+
+article{
+    width:500px;
+    padding:20px;
+    margin: 0 auto;
+
+}
+
+a{
+   
+    color:#FFF8F8;   
+}
+ul{
+display:inline;
+}
+
+.bar{
+    display: inline;
+    padding: 10px 10px 0px 10px;
+    text-align:center;
+
+}
+
+#absolute{
+  float: left;
+  width:50%;
+  margin-left:10%;
+
+}
+
+li{
+    padding:3px;
+}
+
+    
+
+
+
+
+
